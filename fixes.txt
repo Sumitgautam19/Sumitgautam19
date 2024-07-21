@@ -7,3 +7,5 @@ one more bug detected and fixed
 fourth bug fixed
 
 6th bug fix 
+
+another fix message for pink mode
