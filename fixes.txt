@@ -9,3 +9,6 @@ fourth bug fixed
 6th bug fix 
 
 another fix message for pink mode
+
+
+one more fix
