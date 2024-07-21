@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sumit Gautam</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitgautam19&label=Profile%20views&color=0e75b6&style=flat" alt="sumitgautam19" /> </p>
 
 - 🌱 I’m currently learning **DSA**
